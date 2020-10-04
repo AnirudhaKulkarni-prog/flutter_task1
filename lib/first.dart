@@ -64,7 +64,7 @@ myapp()
           
         ),
         Container(
-          margin: EdgeInsets.all(20),
+          margin: EdgeInsets.all(18),
           width:400,
           height:100,
           
