@@ -70,7 +70,7 @@ myapp()
           
           child:Column(
             children: <Widget>[
-              Text("Play From Assets"),
+              Text("Play From the Assets"),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
